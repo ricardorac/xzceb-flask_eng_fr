@@ -1,1 +1,1 @@
-from . import englishToFrench, frenchToEnglish
+__all__ = ['translator']
